@@ -2,7 +2,7 @@
 
 ## About
 
-A frontend-only `WhatsApp clone` developed using the `Flutter` framework, leveraging the power of `Dart` for building a responsive and visually appealing user interface. This application replicates the home screen of WhatsApp including chat box, status & community pages. The objective is to learn and use various types widgets that 
+A frontend-only `WhatsApp clone` developed using the `Flutter` framework, leveraging the power of `Dart` for building a responsive and visually appealing user interface (UI). This application replicates the home screen of WhatsApp including chat box, status & community pages.
 
 ## Objective
 
@@ -14,13 +14,13 @@ You can try out the demo of this WhatsApp clone by visiting the following link:
 
 [**Live Demo as Webpage**](https://whatsapp-clone-2769e.web.app/) *
 
-Alternatively, you can download the APK file to install the app on your Android device:
-> This will require *granting permission* to install apps from unknown source
+Alternatively, you can download the APK file to install the application on your Android device:
+> This will require **granting permission** to *install apps from unknown sources*
 
-[**Download Release APK **](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-release.apk) *
+[**Download Release APK**](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-release.apk) *
 
 [**Download Debug APK**](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-debug.apk)
-> **Note** *: The profile drawer could not be loaded in these views due to some technical issues.
+> **Note** *: The **profile drawer** could not be loaded in these views due to some *technical issues*.
 
 ## Getting Started
 
@@ -28,9 +28,9 @@ To run this project locally, follow these steps:
 
 ### Prerequisites
 
-- Flutter SDK installed on your machine
-- An IDE (like Android Studio, VS Code, etc.)
-- An emulator or a physical device for testing
+- Flutter SDK installed on your device
+- An IDE like Android Studio or VS Code
+- An Android emulator or a physical device for testing
 
 ### Installation
 
