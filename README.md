@@ -22,6 +22,9 @@ Alternatively, you can download the APK file to install the application on your 
 [**Download Debug APK**](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-debug.apk)
 > **Note** *: The **profile drawer** could not be loaded in these views due to some *technical issues*.
 
+## App Preview
+![Home](https://github.com/user-attachments/assets/6c947c67-f220-4a5c-959b-bf4f4b8bcc7f)![Profile](https://github.com/user-attachments/assets/679015f3-ef5e-4965-8e18-f90f2d94b0e0)![Status](https://github.com/user-attachments/assets/3721ff4c-80a2-4e9c-9cd1-9de92c5eddd0)![Community](https://github.com/user-attachments/assets/f061e873-ce7a-4c3e-82b2-eb147bf29bfb)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
