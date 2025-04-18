@@ -9,18 +9,14 @@ A frontend-only `WhatsApp clone` developed using the `Flutter` framework, levera
 The objective of this project is to learn and explore various widgets in Flutter, enhancing our understanding of UI development and building responsive applications.
 
 ## Demo
-
-You can try out the demo of this WhatsApp clone by visiting the following link:
-
-[**Live Demo as Webpage**](https://whatsapp-clone-2769e.web.app/) *
-
-Alternatively, you can download the APK file to install the application on your Android device:
+You can download the APK file to install the application on your Android device:
 > This will require **granting permission** to *install apps from unknown sources*
 
 [**Download Release APK**](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-release.apk) *
 
 [**Download Debug APK**](https://github.com/Swarnotaj003/WhatsApp-Clone/releases/download/v1.0/app-debug.apk)
 > **Note** *: The **profile drawer** could not be loaded in these views due to some *technical issues*.
+
 
 ## App Preview
 Home page | Profile sidebar | Status page | Community page
